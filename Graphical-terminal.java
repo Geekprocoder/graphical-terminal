@@ -68,11 +68,10 @@ Terminal(){
 	panel1.add(field);
 	panel1.add(button1);
 	panel1.add(button2);
-  // panel1.add(scrollPane);
+ 
 	panel2.add(Ubutton);
 	panel2.add(Ulabel);
 	panel2.add(pfield);
-// panel2.add(scrollPane1);
 	panel3.add(Alabel);
 
 	tab.addTab("Install", panel1);
