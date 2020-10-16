@@ -1,5 +1,6 @@
 
 import javax.swing.*;
+java
 import java.awt.BorderLayout;
 import java.awt.Container;
 import java.awt.event.ActionEvent;
@@ -20,7 +21,7 @@ String filepath;
 String line,line1;
 Container cp = frame.getContentPane();
 
-      //class area
+      
 
 Terminal(){
 	
@@ -185,6 +186,7 @@ Terminal(){
 	}}
 
 public class tgterminal {
+	
 	public static void main(String a[]) {
 	Terminal T=new Terminal();
 	}}
